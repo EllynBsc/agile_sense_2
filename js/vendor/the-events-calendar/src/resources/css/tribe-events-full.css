@@ -1375,21 +1375,21 @@ select.tribe-events-dropdown {
 }
 
 input[name*='tribe-bar-']::-webkit-input-placeholder {
-	color: #5f5f5f;
+	color: #2f2e3a;
 	font-style: italic;
 	font-weight: normal;
 	line-height: 1.3;
 }
 
 input[name*='tribe-bar-']:-moz-placeholder {
-	color: #5f5f5f;
+	color: #2f2e3a;
 	font-style: italic;
 	font-weight: normal;
 	line-height: 1.3;
 }
 
 .tribe-event-placeholder {
-	color: #5f5f5f;
+	color: #2f2e3a;
 	font-weight: normal;
 	font-style: italic;
 	line-height: 1.3;
