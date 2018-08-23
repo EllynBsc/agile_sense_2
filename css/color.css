@@ -6417,7 +6417,7 @@ blockquote a,.post_item .post_categories,.post_item_single .post_taxes,.related_
 
 .scheme_dark .sc_item_button a {
     color: #ffffff;
-    background-color: #ee4723
+    background-color: #3479B1;
 }
 
 .scheme_dark .sc_item_button a:not([class*="sc_button_hover_"]) {
@@ -6435,7 +6435,7 @@ blockquote a,.post_item .post_categories,.post_item_single .post_taxes,.related_
 
 .scheme_dark .trx_addons_hover_content .trx_addons_hover_links a {
     color: #ffffff;
-    background-color: #ee4723
+    background-color: #3479B1
 }
 
 .scheme_dark .trx_addons_hover_content .trx_addons_hover_links a:not([class*="sc_button_hover_"]),.scheme_dark .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_left {
@@ -6480,7 +6480,7 @@ blockquote a,.post_item .post_categories,.post_item_single .post_taxes,.related_
 }
 
 .scheme_dark #toc_menu .toc_menu_item:hover .toc_menu_icon_default:before,.scheme_dark #toc_menu .toc_menu_item_active .toc_menu_icon_default:before {
-    background-color: #ee4723
+    background-color: #3479B1
 }
 
 .scheme_dark #toc_menu .toc_menu_description {
@@ -6607,7 +6607,7 @@ blockquote a,.post_item .post_categories,.post_item_single .post_taxes,.related_
 }
 
 .scheme_dark .sc_form_field button:not([class*="sc_button_hover_"]):hover {
-    background-color: #ffffff!important
+    background-color: #3479B1!important
 }
 
 .scheme_dark .sc_form .sc_form_info_icon {
